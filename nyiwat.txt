@@ -1,2 +1,13 @@
 Acep Ega
+<<<<<<< HEAD
 Arya dwi putra
+=======
+<<<<<<< HEAD
+Putera Bella Bangsa
+oke
+hallo
+Fadli Ashary (Menuju dinding Ratapan solo)
+=======
+Keila Andina C.A
+>>>>>>> 75e0360c0cc5ddde55463e1fed59b1cab7482596
+>>>>>>> cf8cb4591d7cbc635711b4fef6fe0577a7ab05e6
