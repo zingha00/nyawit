@@ -1,13 +1,23 @@
 Acep Ega
 <<<<<<< HEAD
+<<<<<<< HEAD
 Arya dwi putra
+=======
+RAKA
+>>>>>>> 23a71b4e022df10dba842b6db0cd6bf27ecddcc3
 =======
 <<<<<<< HEAD
 Putera Bella Bangsa
 oke
 hallo
-Fadli Ashary (Menuju dinding Ratapan solo)
+Fadli Ashary
 =======
 Keila Andina C.A
+RAKAA
+irpan suka kamu
 >>>>>>> 75e0360c0cc5ddde55463e1fed59b1cab7482596
+<<<<<<< HEAD
 >>>>>>> cf8cb4591d7cbc635711b4fef6fe0577a7ab05e6
+=======
+>>>>>>> 6eff88ecbbee5cb08527161e28ea48116ac5b4c5
+>>>>>>> 23a71b4e022df10dba842b6db0cd6bf27ecddcc3
